@@ -1,5 +1,9 @@
 <h1 align="center"> Projeto 03 - DT Money</h1>
 
+<h2 align="center">
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
+</h2>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/rocketseat-react-project-3">
 
@@ -18,10 +22,6 @@
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
-<h2 align="center">
-  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
-</h2>
 
 ## :round_pushpin: Sobre
 
@@ -52,13 +52,11 @@ $ npm install
 ```
 Para rodar esta aplicação vamos dividir o terminal para criar dois servidores em duas portas diferentes, uma porta para o frontend usando o vite e outra porta para nossa api-fake usando json-server.
 
- Para o vite iniciar um servidor no endereço: http://127.0.0.1:5173
-
 ```bash
+# Para o vite iniciar um servidor no endereço: http://127.0.0.1:5173
 $ npm run dev
-```
-Para o json-server iniciar um servidor na porta :3333
-```bash
+
+# Para o json-server iniciar um servidor na porta :3333
 $ npm run dev:server
 ```
 ## :memo: Licença
