@@ -10,6 +10,10 @@
   <a href="https://github.com/Fellippemfv/rocketseat-react-project-3/commits/master">
   	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/rocketseat-react-project-3">
   </a>
+
+  <a href="https://github.com/Fellippemfv/rocketseat-react-project-3/blob/master/LICENSE.md">
+  	<img alt="GitHub/license" src="https://img.shields.io/github/license/Fellippemfv/rocketseat-react-project-3">
+  </a>
 </p>
 
 <p align="center">
