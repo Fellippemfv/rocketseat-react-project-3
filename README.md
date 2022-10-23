@@ -1,10 +1,10 @@
 <h1 align="center"> Projeto 03 - DT Money</h1>
 <h2 align="center">
-  <img alt="logo" title="logo" src="" />
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
 </h2>
 
 <p align="justify">
-    Terceiro projeto de reactJS, desenvolvemos do zero uma aplicação de finanças, por meio de um modal conseguimos adicionar saldo positivo ou negativo para um acompanhamento de ganhos e de gastos ao longo de um período.
+    Terceiro projeto de reactJS, desenvolvemos do zero uma aplicação de finanças, por meio de um modal conseguimos adicionar saldo positivo ou negativo para um acompanhamento de entradas, saidas e total ao longo de um período.
 </p>
 
 <p align="center">
@@ -47,11 +47,17 @@ $ cd rocketseat-react-project-3
 
 # Instalar dependências
 $ npm install
+```
+Para rodar esta aplicação vamos dividir o terminal para criar dois servidores em duas portas diferentes, uma porta para o frontend usando o vite e outra porta para nossa api-fake usando json-server.
 
-# Rodar um servidor com vite
+ Para o vite iniciar um servidor no endereço: http://127.0.0.1:5173
+
+```bash
 $ npm run dev
-
-# Clicar no link gerado pelo vite, você será redirecionado para uma nova aba em seu navegador padrão.
+```
+Para o json-server iniciar um servidor na porta :3333
+```bash
+$ npm run dev:server
 ```
 ## :memo: Licença
 Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-project-3/blob/master/LICENSE.md) para mais informação.
