@@ -1,5 +1,9 @@
 <h1 align="center"> Projeto 03 - DT Money</h1>
 
+<h2 align="center">
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
+</h2>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/rocketseat-react-project-3">
 
@@ -13,19 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="#round_pushpin-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-<h2 align="center">
-  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
-</h2>
-
-## :round_pushpin: Sobre
-
+<p align="justify">
  Terceiro projeto de reactJS, desenvolvemos do zero uma aplicação de finanças, por meio de um modal conseguimos adicionar saldo positivo ou negativo para um acompanhamento de entradas, saidas e total ao longo de um período.
+</p>
 
 ## :rocket: Tecnologias
 
@@ -50,7 +49,7 @@ $ cd rocketseat-react-project-3
 # Instalar dependências
 $ npm install
 ```
-Para rodar estsa aplicação vamos usar dois terminais para criar servidores em portas diferentes, uma porta para o frontend usando o vite e outra porta para nossa api-fake usando json-server.
+Para rodar estsa aplicação vamos precisar usar dois terminais para criar dois servidores em portas diferentes, uma porta para o frontend usando o vite e outra porta para nossa api-fake usando json-server.
 
 ```bash
 # Para o vite iniciar um servidor no endereço: http://127.0.0.1:5173
