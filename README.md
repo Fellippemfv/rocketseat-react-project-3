@@ -1,11 +1,4 @@
 <h1 align="center"> Projeto 03 - DT Money</h1>
-<h2 align="center">
-  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
-</h2>
-
-<p align="justify">
-    Terceiro projeto de reactJS, desenvolvemos do zero uma aplicação de finanças, por meio de um modal conseguimos adicionar saldo positivo ou negativo para um acompanhamento de entradas, saidas e total ao longo de um período.
-</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/rocketseat-react-project-3">
@@ -20,10 +13,19 @@
 </p>
 
 <p align="center">
+  <a href="#round_pushpin-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<h2 align="center">
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/197372851-18fd8b8b-33af-48f1-97bc-6b3a1e2b2f78.png" />
+</h2>
+
+## :round_pushpin: Sobre
+
+ Terceiro projeto de reactJS, desenvolvemos do zero uma aplicação de finanças, por meio de um modal conseguimos adicionar saldo positivo ou negativo para um acompanhamento de entradas, saidas e total ao longo de um período.
 
 ## :rocket: Tecnologias
 
